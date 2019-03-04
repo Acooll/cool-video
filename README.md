@@ -21,7 +21,7 @@ $ npm run generate
 # project shots
 
 ![images](https://github.com/Acooll/cool-video/raw/master/static/001.jpg)
-![images](https://github.com/Acooll/cool-video/raw/master/static/002.jpg)
 ![images](https://github.com/Acooll/cool-video/raw/master/static/003.jpg)
+![images](https://github.com/Acooll/cool-video/raw/master/static/002.png)
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
