@@ -99,6 +99,18 @@ html {
   box-sizing: border-box;
   background: #151c2d;
 }
+::-webkit-scrollbar {
+  width: 10px;
+  height: 5px
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #009cff;
+}
+::-webkit-scrollbar-thumb:hover{
+  background: #009ccc;
+}
+
 a{
   text-decoration: none;
 }

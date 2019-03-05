@@ -249,6 +249,9 @@ export default {
               img
                 width 200px
                 height 300px
+                transition: all 0.3s
+              img:hover
+                transform scale(1.07)
               info
                 font-size 15px
     .post-list
@@ -269,6 +272,9 @@ export default {
             img
               width 186px
               height 250px
+              transition all 0.3s
+            img:hover
+              transform scale(1.07)
             .info
               font-size 15px
               color #fff
