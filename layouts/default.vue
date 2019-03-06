@@ -9,7 +9,7 @@
           </a>
         </div>
         <ul class="menu">
-            <a href="">
+            <a href="/">
               <li>
                 <img src="../static/images/iptv.png" height="20" width="20"/>
                 主站
