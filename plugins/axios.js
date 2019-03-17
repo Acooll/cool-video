@@ -5,5 +5,5 @@ let options = {}
 // if (process.SERVER_BUILD) {
 //   options.baseURL = `http://${process.env.HOST || '127.0.0.1'}:${process.env.PORT || 3005}`
 // }
-options.baseURL = "http://192.168.1.118:3000/"
+options.baseURL = "http://129.204.214.72:3000/"
 export default axios.create(options)
